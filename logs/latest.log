@@ -1,0 +1,161 @@
+[18:39:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:39:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:39:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:39:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:39:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:39:39] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:39:39] [Server thread/INFO]: Loading properties
+[18:39:39] [Server thread/INFO]: Default game type: SURVIVAL
+[18:39:39] [Server thread/INFO]: Generating keypair
+[18:39:39] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_45]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_45]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_45]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_45]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[18:39:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:39:40] [Server thread/INFO]: Using default channel type
+[18:39:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:39:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:39:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:39:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:39:41] [Server thread/INFO]: Preparing level "world"
+[18:39:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:39:42] [Server thread/INFO]: Loaded 6 recipes
+[18:39:42] [Server thread/INFO]: Loaded 811 advancements
+[18:39:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:39:44] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:44] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:44] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:44] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[18:39:45] [Server thread/INFO]: Preparing spawn area: 70%
+[18:39:45] [Server thread/INFO]: Time elapsed: 2181 ms
+[18:39:45] [Server thread/INFO]: Done (3.411s)! For help, type "help"
+[18:39:48] [Server thread/INFO]: raj[/192.168.1.128:53270] logged in with entity id 221 at (-56.93504357212919, 72.0, -230.56211105153756)
+[18:39:48] [Server thread/INFO]: raj joined the game
+[18:40:05] [Server thread/INFO]: sparshtemani[/192.168.1.134:53530] logged in with entity id 256 at (-67.69999998807907, 11.0, -77.54794864698215)
+[18:40:05] [Server thread/INFO]: sparshtemani joined the game
+[18:40:19] [Server thread/INFO]: rafaath[/192.168.1.127:50548] logged in with entity id 404 at (-90.69629297013688, 67.0, -76.6999999880791)
+[18:40:19] [Server thread/INFO]: rafaath joined the game
+[18:40:50] [Server thread/INFO]: Electromorphous[/192.168.1.130:64630] logged in with entity id 505 at (-54.62837286436631, 72.0, -226.1706487189838)
+[18:40:50] [Server thread/INFO]: Electromorphous joined the game
+[18:41:22] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:41:22] [Server thread/INFO]: Electromorphous left the game
+[18:41:30] [Server thread/INFO]: Electromorphous[/192.168.1.130:64631] logged in with entity id 653 at (-54.62837286436631, 72.0, -226.1706487189838)
+[18:41:30] [Server thread/INFO]: Electromorphous joined the game
+[18:41:31] [Server thread/INFO]: nrohan09[/127.0.0.1:52712] logged in with entity id 658 at (-71.6315391951643, 64.0, -252.9590516902991)
+[18:41:31] [Server thread/INFO]: nrohan09 joined the game
+[18:41:50] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:41:50] [Server thread/INFO]: Electromorphous left the game
+[18:41:57] [Server thread/INFO]: Electromorphous[/192.168.1.130:64632] logged in with entity id 792 at (-54.62837286436631, 72.0, -226.1706487189838)
+[18:41:57] [Server thread/INFO]: Electromorphous joined the game
+[18:42:28] [Server thread/INFO]: Electromorphous lost connection: Disconnected
+[18:42:28] [Server thread/INFO]: Electromorphous left the game
+[18:42:46] [Server thread/INFO]: Electromorphous[/192.168.1.130:64633] logged in with entity id 1058 at (-54.62837286436631, 72.0, -226.1706487189838)
+[18:42:46] [Server thread/INFO]: Electromorphous joined the game
+[18:43:17] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:43:17] [Server thread/INFO]: Electromorphous left the game
+[18:43:20] [Server thread/WARN]: sparshtemani moved too quickly! -0.15009243091995472,0.0,-10.124864724226455
+[18:44:23] [Server thread/INFO]: Electromorphous[/192.168.1.130:64705] logged in with entity id 1403 at (-54.62837286436631, 72.0, -226.1706487189838)
+[18:44:23] [Server thread/INFO]: Electromorphous joined the game
+[18:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[18:44:54] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:44:54] [Server thread/INFO]: Electromorphous left the game
+[18:45:45] [Server thread/INFO]: SplamBorgin[/192.168.1.130:64776] logged in with entity id 1881 at (-133.5, 69.0, -218.5)
+[18:45:45] [Server thread/INFO]: SplamBorgin joined the game
+[18:46:10] [Server thread/INFO]: SplamBorgin lost connection: Disconnected
+[18:46:10] [Server thread/INFO]: SplamBorgin left the game
+[18:47:18] [Server thread/INFO]: Electromorphous[/192.168.1.130:64852] logged in with entity id 2227 at (-54.62837286436631, 72.0, -226.1706487189838)
+[18:47:18] [Server thread/INFO]: Electromorphous joined the game
+[18:47:35] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:47:35] [Server thread/INFO]: Electromorphous left the game
+[18:48:49] [Server thread/INFO]: Electromorphous[/192.168.1.130:64894] logged in with entity id 2631 at (-54.62837286436631, 72.0, -226.1706487189838)
+[18:48:49] [Server thread/INFO]: Electromorphous joined the game
+[18:49:07] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:49:07] [Server thread/INFO]: Electromorphous left the game
+[18:49:50] [Server thread/WARN]: rafaath moved too quickly! -0.7969999233880571,0.0,-10.070689264038577
+[18:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[18:51:19] [Server thread/INFO]: Electromorphous[/192.168.1.130:65022] logged in with entity id 3217 at (-51.395070704901016, 72.0, -231.53718146468907)
+[18:51:19] [Server thread/INFO]: Electromorphous joined the game
+[18:51:34] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:51:34] [Server thread/INFO]: Electromorphous left the game
+[18:52:06] [Server thread/INFO]: Electromorphous[/192.168.1.130:65027] logged in with entity id 3448 at (-51.395070704901016, 72.0, -231.53718146468907)
+[18:52:06] [Server thread/INFO]: Electromorphous joined the game
+[18:52:37] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:52:37] [Server thread/INFO]: Electromorphous left the game
+[18:56:01] [Server thread/WARN]: sparshtemani moved wrongly!
+[18:56:03] [Server thread/INFO]: nrohan09 has made the advancement [The Parrots and the Bats]
+[18:57:44] [Server thread/INFO]: Electromorphous[/192.168.1.130:65262] logged in with entity id 5009 at (-51.395070704901016, 72.0, -231.53718146468907)
+[18:57:44] [Server thread/INFO]: Electromorphous joined the game
+[18:58:16] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[18:58:16] [Server thread/INFO]: Electromorphous left the game
+[19:00:20] [Server thread/INFO]: Electromorphous[/192.168.1.130:65321] logged in with entity id 5749 at (-51.395070704901016, 72.0, -231.53718146468907)
+[19:00:20] [Server thread/INFO]: Electromorphous joined the game
+[19:04:21] [Server thread/WARN]: raj moved too quickly! 0.06012679857623482,0.0,10.189031411157146
+[19:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[19:09:29] [Server thread/WARN]: Fetching packet for removed entity atx['Stick'/7527, l='world', x=-115.79, y=64.00, z=-210.14]
+[19:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[19:21:03] [Server thread/INFO]: <raj> sleeeeep
+[19:21:36] [Server thread/INFO]: sparshtemani lost connection: Disconnected
+[19:21:36] [Server thread/INFO]: sparshtemani left the game
+[19:21:45] [Server thread/INFO]: sparshtemani[/192.168.1.134:53556] logged in with entity id 10309 at (-72.70000002533197, 58.0000002, -229.70000002533197)
+[19:21:45] [Server thread/INFO]: sparshtemani joined the game
+[19:26:39] [Server thread/WARN]: raj moved too quickly! -2.3664904855172892,0.0,9.837607708463281
+[19:31:36] [Server thread/WARN]: Electromorphous moved too quickly! 0.48066538363394784,1.0,10.00666585708288
+[19:32:22] [Server thread/WARN]: Electromorphous moved too quickly! 4.758482532243491,1.0,8.965547756378754
+[19:33:15] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[19:33:15] [Server thread/INFO]: Electromorphous left the game
+[19:33:24] [Server thread/INFO]: Electromorphous[/192.168.1.130:65354] logged in with entity id 12096 at (-64.92500001192093, 67.0, -278.0542780070141)
+[19:33:24] [Server thread/INFO]: Electromorphous joined the game
+[19:33:56] [Server thread/INFO]: Electromorphous lost connection: Disconnected
+[19:33:56] [Server thread/INFO]: Electromorphous left the game
+[19:34:04] [Server thread/INFO]: Electromorphous[/192.168.1.130:65355] logged in with entity id 12230 at (-64.92500001192093, 67.0, -278.0542780070141)
+[19:34:04] [Server thread/INFO]: Electromorphous joined the game
+[19:34:35] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[19:34:35] [Server thread/INFO]: Electromorphous left the game
+[19:34:49] [Server thread/INFO]: Electromorphous[/192.168.1.130:65356] logged in with entity id 12352 at (-64.92500001192093, 67.0, -278.0542780070141)
+[19:34:49] [Server thread/INFO]: Electromorphous joined the game
+[19:35:19] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[19:35:19] [Server thread/INFO]: Electromorphous left the game
+[19:35:19] [Server thread/INFO]: Electromorphous[/192.168.1.130:65357] logged in with entity id 12383 at (-64.92500001192093, 67.0, -278.0542780070141)
+[19:35:19] [Server thread/INFO]: Electromorphous joined the game
+[19:35:27] [Server thread/INFO]: Electromorphous lost connection: Disconnected
+[19:35:27] [Server thread/INFO]: Electromorphous left the game
+[19:36:26] [Server thread/INFO]: Electromorphous[/192.168.1.130:65402] logged in with entity id 12601 at (-64.92500001192093, 67.0, -278.0542780070141)
+[19:36:26] [Server thread/INFO]: Electromorphous joined the game
+[19:36:35] [Server thread/INFO]: Electromorphous was blown up by Creeper
+[19:36:57] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[19:36:57] [Server thread/INFO]: Electromorphous left the game
+[19:37:21] [Server thread/INFO]: Electromorphous[/192.168.1.130:65406] logged in with entity id 12867 at (-64.92500001192093, 67.0, -278.0542780070141)
+[19:37:21] [Server thread/INFO]: Electromorphous joined the game
+[19:37:54] [Server thread/INFO]: Electromorphous lost connection: Timed out
+[19:37:54] [Server thread/INFO]: Electromorphous left the game
+[19:40:29] [Server thread/INFO]: sparshtemani lost connection: Disconnected
+[19:40:29] [Server thread/INFO]: sparshtemani left the game
+[19:45:58] [Server thread/INFO]: raj lost connection: Disconnected
+[19:45:58] [Server thread/INFO]: raj left the game
+[19:46:03] [Server thread/INFO]: nrohan09 lost connection: Disconnected
+[19:46:03] [Server thread/INFO]: nrohan09 left the game
+[19:47:35] [Server thread/INFO]: rafaath lost connection: Disconnected
+[19:47:35] [Server thread/INFO]: rafaath left the game
+[20:09:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[20:23:12] [Server thread/INFO]: Stopping server
+[20:23:12] [Server thread/INFO]: Saving players
+[20:23:12] [Server thread/INFO]: Saving worlds
+[20:23:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:23:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:23:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:23:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
