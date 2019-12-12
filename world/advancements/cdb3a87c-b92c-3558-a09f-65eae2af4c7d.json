@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-12-12 18:11:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2019-12-11 19:29:07 +0530"
@@ -233,6 +239,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2019-12-08 16:24:38 +0530"
@@ -242,6 +260,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-12-08 16:45:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
     },
     "done": true
   },
@@ -329,7 +353,12 @@
       "cooked_mutton": "2019-12-08 16:30:23 +0530",
       "cooked_beef": "2019-12-08 17:07:27 +0530",
       "beef": "2019-12-08 16:27:45 +0530",
+      "baked_potato": "2019-12-12 18:38:05 +0530",
+      "apple": "2019-12-12 18:36:25 +0530",
+      "potato": "2019-12-12 18:37:19 +0530",
       "bread": "2019-12-08 17:38:09 +0530",
+      "rotten_flesh": "2019-12-12 18:38:48 +0530",
+      "melon_slice": "2019-12-12 18:13:40 +0530",
       "cooked_chicken": "2019-12-08 17:43:39 +0530"
     },
     "done": false
@@ -522,6 +551,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2019-12-12 17:55:16 +0530",
       "minecraft:cow": "2019-12-09 18:14:04 +0530",
       "minecraft:chicken": "2019-12-09 18:17:54 +0530"
     },
@@ -542,6 +572,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-12-09 16:57:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-12-12 18:08:05 +0530"
     },
     "done": true
   },
@@ -579,6 +615,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-12-08 16:23:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
     },
     "done": true
   },
@@ -732,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2019-12-11 17:17:09 +0530"
@@ -816,6 +864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-12-12 18:07:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-12-09 17:03:25 +0530"
@@ -826,6 +880,8 @@
     "criteria": {
       "minecraft:skeleton": "2019-12-09 17:23:52 +0530",
       "minecraft:spider": "2019-12-08 17:04:58 +0530",
+      "minecraft:creeper": "2019-12-12 18:17:40 +0530",
+      "minecraft:witch": "2019-12-12 18:28:37 +0530",
       "minecraft:husk": "2019-12-08 17:11:44 +0530",
       "minecraft:cave_spider": "2019-12-09 17:08:43 +0530",
       "minecraft:zombie": "2019-12-09 17:15:42 +0530",
@@ -875,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-12-12 18:07:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-12-08 16:24:38 +0530"
@@ -890,6 +952,24 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2019-12-08 16:25:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-12-12 18:11:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
     },
     "done": true
   },
@@ -953,6 +1033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-12-08 16:20:33 +0530"
@@ -995,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-12-12 18:07:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-12-08 16:20:33 +0530"
@@ -1004,6 +1096,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-12-09 16:53:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
     },
     "done": true
   },
@@ -1040,6 +1138,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-12-08 16:53:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-12-12 18:08:05 +0530"
     },
     "done": true
   },
@@ -1265,6 +1369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-12-08 16:45:14 +0530"
@@ -1298,6 +1408,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2019-12-08 17:04:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
     },
     "done": true
   },
@@ -1448,6 +1564,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2019-12-09 16:57:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
     },
     "done": true
   },
@@ -1690,6 +1812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2019-12-08 16:22:14 +0530"
@@ -1750,15 +1878,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-12-08 16:45:14 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2019-12-12 17:30:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-12-08 16:23:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-12-12 18:11:16 +0530"
     },
     "done": true
   },

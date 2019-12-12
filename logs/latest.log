@@ -1,9 +1,13 @@
-[00:32:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:32:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:32:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:32:38] [Server console handler/ERROR]: Exception handling console input
+[16:15:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:15:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:15:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:15:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:15:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:15:27] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[16:15:27] [Server thread/INFO]: Loading properties
+[16:15:27] [Server thread/INFO]: Default game type: SURVIVAL
+[16:15:27] [Server thread/INFO]: Generating keypair
+[16:15:27] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_45]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_45]
@@ -17,40 +21,92 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_45]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_45]
 	at uk$2.run(SourceFile:109) [server.jar:?]
-[00:32:38] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[00:32:38] [Server thread/INFO]: Loading properties
-[00:32:38] [Server thread/INFO]: Default game type: SURVIVAL
-[00:32:38] [Server thread/INFO]: Generating keypair
-[00:32:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:32:39] [Server thread/INFO]: Using default channel type
-[00:32:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:32:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:32:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:32:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:32:41] [Server thread/INFO]: Preparing level "world"
-[00:32:41] [Server thread/INFO]: Reloading ResourceManager: Default
-[00:32:42] [Server thread/INFO]: Loaded 6 recipes
-[00:32:42] [Server thread/INFO]: Loaded 811 advancements
-[00:32:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:43] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:32:44] [Server thread/INFO]: Time elapsed: 1338 ms
-[00:32:44] [Server thread/INFO]: Done (3.074s)! For help, type "help"
-[00:34:31] [Server thread/INFO]: nrohan09[/127.0.0.1:64921] logged in with entity id 198 at (-61.168877464532784, 65.0, -239.6564981707033)
-[00:34:31] [Server thread/INFO]: nrohan09 joined the game
-[00:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
-[00:36:45] [Server thread/INFO]: nrohan09 lost connection: Disconnected
-[00:36:45] [Server thread/INFO]: nrohan09 left the game
-[00:37:30] [Server thread/INFO]: Stopping server
-[00:37:30] [Server thread/INFO]: Saving players
-[00:37:30] [Server thread/INFO]: Saving worlds
-[00:37:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:37:30] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:37:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:15:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:15:27] [Server thread/INFO]: Using default channel type
+[16:15:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:15:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:15:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:15:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:15:29] [Server thread/INFO]: Preparing level "world"
+[16:15:29] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:15:30] [Server thread/INFO]: Loaded 6 recipes
+[16:15:31] [Server thread/INFO]: Loaded 811 advancements
+[16:15:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:15:32] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:32] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:32] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:33] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:33] [Server thread/INFO]: Time elapsed: 1856 ms
+[16:15:33] [Server thread/INFO]: Done (3.663s)! For help, type "help"
+[16:17:22] [Server thread/INFO]: nrohan09[/127.0.0.1:50058] logged in with entity id 197 at (-64.23994418791682, 65.0, -241.0569374069444)
+[16:17:22] [Server thread/INFO]: nrohan09 joined the game
+[16:17:42] [Server thread/INFO]: nrohan09 lost connection: Disconnected
+[16:17:42] [Server thread/INFO]: nrohan09 left the game
+[16:30:36] [Server thread/INFO]: nrohan09[/127.0.0.1:53987] logged in with entity id 243 at (-66.69690413610171, 65.0, -242.56397401631523)
+[16:30:36] [Server thread/INFO]: nrohan09 joined the game
+[16:34:19] [Server thread/INFO]: raj[/192.168.1.128:55852] logged in with entity id 758 at (-63.806291432637785, 76.0, -201.47818064641015)
+[16:34:19] [Server thread/INFO]: raj joined the game
+[16:35:35] [Server thread/WARN]: raj moved too quickly! 0.8358692361526465,-10.98328538507323,-1.5573540406201118
+[16:38:01] [Server thread/INFO]: raj lost connection: Disconnected
+[16:38:01] [Server thread/INFO]: raj left the game
+[16:40:28] [Server thread/INFO]: raj[/192.168.1.128:55879] logged in with entity id 1662 at (-71.78429293080353, 67.0, -200.5099764555822)
+[16:40:28] [Server thread/INFO]: raj joined the game
+[17:03:42] [Server thread/INFO]: rafaath[/192.168.1.127:49931] logged in with entity id 5178 at (-54.10074810289264, 72.0, -220.88309241682666)
+[17:03:42] [Server thread/INFO]: rafaath joined the game
+[17:03:46] [Server thread/INFO]: rafaath lost connection: You logged in from another location
+[17:03:46] [Server thread/INFO]: rafaath left the game
+[17:03:46] [Server thread/INFO]: rafaath[/192.168.1.127:49942] logged in with entity id 5196 at (-54.10074810289264, 72.0, -220.88309241682666)
+[17:03:46] [Server thread/INFO]: rafaath joined the game
+[17:04:01] [Server thread/INFO]: rafaath lost connection: Timed out
+[17:04:01] [Server thread/INFO]: rafaath left the game
+[17:04:08] [Server thread/INFO]: rafaath[/192.168.1.127:49967] logged in with entity id 5244 at (-54.10074810289264, 72.0, -220.88309241682666)
+[17:04:08] [Server thread/INFO]: rafaath joined the game
+[17:24:43] [Server thread/INFO]: sparshtemani[/192.168.1.134:56416] logged in with entity id 8294 at (-72.70000002533197, 58.0000002, -229.70000002533197)
+[17:24:43] [Server thread/INFO]: sparshtemani joined the game
+[17:30:19] [Server thread/INFO]: nrohan09 has made the advancement [Voluntary Exile]
+[17:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[17:31:39] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/9896, l='world', x=-37.39, y=12.00, z=-313.13]
+[17:35:38] [Server thread/WARN]: sparshtemani moved too quickly! -3.7934636939304482,0.0,-9.421999423461102
+[17:35:38] [Server thread/WARN]: raj moved too quickly! -8.328747350218705,0.0,-5.586604257372414
+[17:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[17:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[17:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3005ms or 60 ticks behind
+[17:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
+[17:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[17:59:14] [Server thread/INFO]: sparshtemani was slain by Spider
+[18:00:21] [Server thread/INFO]: sparshtemani was slain by Zombie
+[18:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[18:06:14] [Server thread/INFO]: rafaath burned to death
+[18:09:01] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/20298, l='world', x=-47.88, y=72.32, z=-219.61]
+[18:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[18:17:38] [Server thread/INFO]: rafaath tried to swim in lava
+[18:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[18:27:14] [Server thread/WARN]: sparshtemani moved too quickly! -9.925038642663395,0.0,-1.4715665511144493
+[18:31:02] [Server thread/WARN]: sparshtemani moved too quickly! 1.5931181375549528,-0.5358406250445569,9.948223110452773
+[18:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[18:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[18:41:07] [Server thread/WARN]: rafaath moved too quickly! 0.05979963369873076,0.0,-10.101346389101309
+[18:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
+[18:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18:43:17] [Server thread/INFO]: sparshtemani lost connection: Disconnected
+[18:43:17] [Server thread/INFO]: sparshtemani left the game
+[18:45:50] [Server thread/INFO]: nrohan09 lost connection: Disconnected
+[18:45:50] [Server thread/INFO]: nrohan09 left the game
+[18:46:03] [Server thread/INFO]: raj lost connection: Disconnected
+[18:46:03] [Server thread/INFO]: raj left the game
+[18:47:05] [Server thread/INFO]: rafaath lost connection: Disconnected
+[18:47:05] [Server thread/INFO]: rafaath left the game
+[19:40:01] [Server thread/INFO]: Stopping server
+[19:40:01] [Server thread/INFO]: Saving players
+[19:40:01] [Server thread/INFO]: Saving worlds
+[19:40:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:40:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:40:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
