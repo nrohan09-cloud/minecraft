@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-12-13 19:34:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2019-12-08 17:19:02 +0530"
@@ -188,6 +194,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2019-12-08 16:25:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2019-12-13 19:27:43 +0530"
     },
     "done": true
   },
@@ -279,6 +291,7 @@
     "criteria": {
       "cooked_porkchop": "2019-12-08 18:02:30 +0530",
       "cooked_mutton": "2019-12-08 16:44:24 +0530",
+      "cooked_beef": "2019-12-13 17:30:04 +0530",
       "porkchop": "2019-12-08 18:01:20 +0530",
       "mutton": "2019-12-08 18:01:56 +0530",
       "bread": "2019-12-08 17:20:51 +0530",
@@ -358,6 +371,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2019-12-08 16:23:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-12-13 19:31:47 +0530"
     },
     "done": true
   },
@@ -608,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-12-13 19:31:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-12-08 16:39:25 +0530"
@@ -728,6 +753,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-12-13 19:31:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-12-13 19:47:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-12-08 17:09:13 +0530",
@@ -754,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2019-12-13 19:34:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-12-08 16:23:34 +0530"
@@ -769,6 +812,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2019-12-08 17:45:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-12-13 19:47:05 +0530"
     },
     "done": true
   },
@@ -871,6 +920,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2019-12-08 17:45:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-12-13 19:47:05 +0530"
     },
     "done": true
   },
@@ -1036,6 +1091,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-12-13 19:27:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-12-13 19:16:25 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2019-12-08 17:51:41 +0530"
@@ -1192,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-12-13 19:31:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-12-08 17:51:41 +0530"
@@ -1267,6 +1340,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-12-08 17:45:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-12-13 19:31:47 +0530"
     },
     "done": true
   },
@@ -1482,6 +1561,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-12-08 16:21:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-12-13 19:31:47 +0530"
     },
     "done": true
   },
